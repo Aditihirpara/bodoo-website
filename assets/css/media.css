@@ -1,0 +1,890 @@
+ /*0-575 extra-small 1rem=8px */
+ @media screen and (max-width:576px) {
+   html {
+     font-size: 50%;
+   }
+
+   section {
+     padding-top: 8rem;
+   }
+
+   h1 {
+     font-size: 4rem;
+   }
+   .sub-heading{
+    font-size: 4rem;
+  }
+
+   .blog {
+     justify-content: center;
+
+   }
+
+   .blog h4 {
+     font-size: 3rem;
+   }
+
+   .blog img {
+     width: 10rem;
+   }
+   .team{
+    border-right: none ;
+    padding-right: 0rem;
+  }
+  .blog-r{
+    text-align: center;
+    padding-left: 0;
+  }
+  .bl-h{
+    text-align: center;
+   }
+  
+   .bl-sb{
+    font-size: 5rem ;
+    text-align: center;
+   }
+   .blog-r .sub-heading {
+    text-align: center;
+  }
+
+  .team-h2{
+    line-height: 10rem;
+    text-align: center;
+  }
+  .team-p{
+    max-width: 100%;
+    margin: 0rem 0 1rem 0; 
+  }
+  .t-img-h2{
+    margin-top: 6rem;
+    font-size: 7rem;
+  }
+
+  .r1-d h4{
+    font-size: 2.2rem;
+  }
+  .why-row{
+    margin-top: 4.2rem;
+}
+.why-row {
+  justify-content: center;
+}
+.un-h{
+  max-width: 60rem;
+}
+.un-img{
+  height: 8rem;
+  margin-top: 1.2rem;
+}
+.resun-row{
+  margin-top: 1rem;
+}
+.apo-p{
+  text-align: center;
+}
+.apo-h{
+  text-align: center;
+}
+.form-row{
+  margin-top: 4rem;
+}
+.apoint{
+  text-align: center;
+}
+.arr{
+  height: 3rem;
+}
+.client-h{
+  max-width: 60rem;
+  font-size: 5rem;
+}
+.mempe{
+  font-size: 1.2rem;
+}
+.client-h{
+  max-width: 70rem;
+}
+.writeimg{
+  height: 30px;
+  width: 30px;
+}
+.d1 p{
+  margin-top: 1rem;
+}
+.writeimg{
+  height: 40px;
+  width: 40px;
+}
+
+.price-data p{
+  margin: 1rem;
+  font-size: 1.8rem;
+}
+.price-btn{
+  width: 30rem;
+}
+.pricep{
+  font-size: 1rem;
+}
+.price-d{
+  margin: 4.4rem;
+  padding: 4rem;
+}
+.price-btn{
+  width: 25rem;
+}
+.swiper-slide img {
+  height: 21.2rem;
+}
+.map img{
+  width: 100%;
+}
+.bloghe{
+  font-size: 4rem;
+}
+.team-p{
+  text-align: center;
+}
+.for-data h4{
+  margin-top: 2rem;
+}
+.f-data{
+  padding: 2rem;
+}
+.form-d h4{
+  margin-bottom: 0rem;
+}
+.swiper-button-next, .swiper-button-prev{
+  top: 22%;
+}
+  
+.blog-p-r{
+  width: 32rem;
+  font-size: 1.3rem;
+}
+.r1-d{
+  border: 1px solid white;
+  margin: 2rem;
+  padding: 2rem;
+  margin-left: 2rem;
+}
+.form-btn {
+  margin-left: 2rem;
+}
+.unh4 {
+  font-size: 3rem;
+}
+.int{
+  font-size: 4.5rem;
+}
+
+ }
+/****************** sm ************************/
+ @media screen and (min-width:576px) {
+   html {
+     font-size: 50%;
+   }
+
+   section {
+     padding-top: 8rem;
+   }
+
+   h1 {
+     font-size: 5rem;
+   }
+   .sub-heading{
+    font-size: 3.2rem;
+  }
+
+   .blog {
+     justify-content: center;
+
+   }
+
+   .blog h4 {
+     font-size: 3.4rem;
+   }
+
+   .blog img {
+     width: 10rem;
+   }
+   .team{
+    border-right: none ;
+    padding-right: 0rem;
+  }
+  .blog-p-r{
+    width: 100%;   
+}
+.blog-r{
+  text-align: center;
+  padding-left: 0;
+}
+.bl-h{
+  margin-top: 5rem;
+  text-align: center;
+ }
+
+ .bl-sb{
+  text-align: center;
+ }
+ .blog-r .sub-heading {
+  text-align: center;
+}
+.team-h2{
+  line-height: 8rem;
+  text-align: center;
+}
+.team-p{
+  max-width: 100%;
+  margin: 2rem 0 6rem 0; 
+}
+.t-img-h2{
+  margin-top: 6rem;
+  font-size: 7rem;
+}
+.team-h2{
+  font-size: 4.5rem;
+}
+.r1-d h4{
+  font-size: 3.4rem;
+}
+.why-row{
+  margin-top: 5.2rem;
+}
+.why-row{
+  justify-content: center;
+
+}
+.un-h{
+  max-width: 75rem;
+}
+.un-img {
+  height: 9.5rem;
+}
+.un-h{
+  font-size: 4rem;
+}
+.resun-row{
+  margin-top: 1rem;
+}
+.apo-p{
+  text-align: center;
+}
+.apo-h{
+  text-align: center;
+}
+.form-row{
+  margin-top: 9rem;
+}
+.book{
+  text-align: center;
+}
+.priceh2{
+  font-size: 5.5rem;
+}
+.arr{
+  height: 12rem;
+}
+.client-h{
+  max-width: 80rem;
+  font-size: 8rem;
+}
+.client-h{
+  max-width: 60rem;
+  font-size: 6rem;
+}
+.mempe{
+  font-size: 1.4rem;
+}
+
+.d1 p{
+  margin-top: 1rem;
+}
+.writeimg{
+  height: 30px;
+  width: 30px;
+}
+.d1 p{
+  margin-top: 2rem;
+}
+.price-data p{
+  margin: 1rem;
+  font-size: 1.8rem;
+}
+.price-btn{
+  width: 30rem;
+}
+.pricep{
+  font-size: 2.4rem;
+}
+.price-d{
+  margin: 6.4rem;
+  padding: 3rem;
+}
+.price-btn{
+  width: 25rem;
+}
+.client-h{
+  max-width: 70rem;
+}
+.swiper-slide img {
+  height: 25.2rem;
+}
+.map img{
+  width: 30%;
+}
+.team-p{
+  text-align: center;
+}
+.for-data h4{
+  margin-top: 2.5rem;
+}
+.int{
+  font-size: 6rem;
+}
+
+  
+
+}
+
+/************ md **************/
+ @media screen and (min-width:768px) {
+   html {
+     font-size: 56.25%;
+   }
+   h1 {
+    font-size: 5.5rem;
+  }
+  .sub-heading{
+    font-size: 4.5rem;
+  }
+
+   section {
+     padding-top: 10rem;
+   }
+  .un-img{
+    height: 9.5rem;
+    margin-right: 2.2rem;
+  }
+  .un-col{
+    margin-top: 10rem;                                    
+}
+.resun-row{
+  margin-top: 10rem;
+}
+  .r1-d h4{
+    font-size: 4.4rem;
+  }
+  .memh{
+    font-size: 5.8rem;
+  }
+  .client-h{
+    max-width: 130rem;
+  }
+  .d1 p{
+    margin-top: 2rem;
+  }
+  .writeimg{
+    height: 30px;
+    width: 30px;
+  }
+  
+  .price-data p{
+    margin: 1rem 1rem 1rem 0.2rem;
+    font-size: 1.3rem;
+  }
+  .price-btn{
+    width: 20rem;
+  }
+  .pricep{
+    font-size: 1.5rem;
+  }
+  .price-d{
+    margin: 3.3rem;
+    padding: 3rem;
+  }
+  .client-h{
+    max-width: 80rem;
+  }
+  .swiper-slide img {
+    height: 38rem;
+  }
+  .map img{
+    width: 90%;
+  }
+  .form-d h4{
+    margin-bottom: 2rem;
+  }
+  .unboxp {
+    margin-left: 0;
+  }
+  
+.un-img{
+  margin-right: 0;
+}
+.unh4 {
+  font-size: 2.5rem;
+}
+ }
+
+
+
+
+
+
+
+
+
+
+
+ /************ lg ************/
+
+ @media screen and (min-width:992px) {
+   h1 {
+     font-size: 8rem;
+   }
+   .sub-heading{
+    font-size: 6rem;
+  }
+
+   .blog img {
+     width: 12rem;
+   }
+   .blog-p-r{
+    width: 40rem;
+    font-size: 1.5rem;
+   }
+   .team{
+    border-right: 3px solid white ;
+    padding-right: 10rem;
+}
+.bl-h{
+  text-align: left;
+  margin-top: 0;
+}
+.blog-r{
+  padding-left: 9rem ;
+  text-align: left;
+}
+.team-h2{
+  line-height: 12.5rem;
+  text-align: left;
+}
+.team-p{
+  max-width: 37rem;
+  margin: 8rem 0 0 0; 
+}
+.t-img-h2{
+  margin-top: 6rem;
+  font-size: 7rem;
+}
+.blog-r .sub-heading {
+   text-align: left; 
+}
+
+.team{
+ padding-right: 6rem;
+}
+
+.blog-r{
+  padding-left: 5rem ;
+}
+.r1-d h4{
+  font-size: 3.3rem;
+}
+
+.why-row{
+  margin-top: 7.2rem;
+}
+.why-row{
+  justify-content: space-between;
+}
+.un-h{
+  max-width: 95rem;
+}
+.apo-p{
+  text-align: left;
+}
+.apo-h{
+  text-align: left;
+}
+.r1-d h4{
+  font-size: 2.5rem;
+}
+.apo-h{
+  text-align: left;
+  font-size: 5rem;
+}
+.form-row{
+  margin-top: 0;
+}
+.form-btn{
+  margin-left: 5.5rem;
+}
+.book{
+  text-align: left;
+}
+.arr{
+  height: 16rem;
+}
+.client-h{
+  max-width: 100rem;
+}
+.mempe{
+  font-size: 1.5rem;
+}
+.price-data p{
+  margin: 1rem;
+  font-size: 1.8rem;
+}
+.price-btn{
+  width: 30rem;
+}
+.pricep{
+  font-size: 2.4rem;
+}
+.price-d{
+  margin: 4.4rem;
+  padding: 4rem;
+}
+.slide-p p{
+  font-size: 1.2rem;
+}
+.team-p{
+  text-align: left;
+}
+.unboxp {
+  margin-left: auto;
+}
+
+.un-img{
+  margin-right: auto;
+  justify-content: center;
+}
+.unh4 {
+    font-size: 5.5rem;
+}
+.slide-p::before{
+  height: 50px;
+  width: 50px;
+ }
+ .team-h2{
+  line-height: 10rem;
+  text-align: left;
+}
+.for-data img{
+  height: 40rem;
+}
+
+
+
+ }
+/***************** xl *******************/
+ @media screen and (min-width:1200px) {
+   html {
+     font-size: 62.5%;
+   }
+
+   section {
+     padding-top: 14rem;
+   }
+   .sub-heading{
+    font-size: 6.5rem;
+  }
+
+   .blog {
+     justify-content: space-between;
+
+   }
+   .team-h2{
+    line-height: 15.5rem;
+    text-align: left;
+}
+.t-img-h2{
+  margin-top: 8rem;
+  font-size: 9rem;
+}
+.un-img{
+  height: 12rem;
+  margin-right: 3.5rem;
+}
+.unh4{
+  font-size:4rem ;
+}
+.r1-d h4{
+  font-size: 3.4rem;
+}
+.for-data h4 {
+  font-size: 1.7rem;
+ }
+
+ .for-data p{
+  font-size: 1.2rem;
+ }
+ .map img{
+  height: 18rem;
+  width: 90%;
+}
+.footer-row a{
+  font-size: 1.2rem;
+  line-height: 3rem;
+
+}
+
+.footer-row h3{
+  font-size: 2rem;
+}
+.arr{
+  height: 18rem;
+}
+
+.price-d{
+  margin: 3.3rem;
+  padding: 3rem;
+}
+.writeimg{
+  height: 20px;
+  width: 20px;
+}
+.price-data p{
+  margin: 0.5rem 1rem 1rem 0.5rem;
+  font-size: 1.3rem;
+}
+
+ .pricep{
+  font-size: 1.5rem;
+ }
+ .d1 p {
+  margin-top: 2rem;
+}
+.price-btn{
+  width: 20rem;
+}
+.r1-d h4 {
+  font-size: 2.5rem;
+}
+
+.slide-p{
+  margin-top: 5rem;
+}
+.for-data h4{
+  margin-top: 5rem;
+}
+.un-col-3{
+  margin-top: 10rem;
+}
+.un-col-3 {
+  margin-top: 10rem;
+}
+.slide-p::before{
+  height: 100px;
+  width: 100px;
+}
+
+}
+
+ /* 1400-1699  xxl*/
+ @media screen and (min-width:1400px) {
+   h1 {
+     font-size: 9rem;
+   }
+
+   section {
+     padding-top: 15rem;
+   }
+
+   .sub-heading {
+    font-size: 6.7rem;
+}
+
+   .blog h4 {
+     font-size: 4.4rem;
+   }
+
+   .blog img {
+     width: 15rem;
+   }
+   .blog-btn{
+    margin-top: 5rem;
+ }
+ .blog-p-r{
+  width: 54rem;
+  font-size: 1.8rem;
+  margin-top: 5.5rem;
+}
+.team{
+  padding-right: 8rem;
+}
+
+.blog-r{
+  padding-left: 7.7rem ;
+}
+.why-row{
+  margin-top: 10.2rem;
+}
+.un-h{
+  max-width: 105rem;
+}
+.apo-h{
+  text-align: left;
+}
+ .pricep{
+  font-size: 1.5;
+ }
+ .for-data h4 {
+  font-size: 2.2rem;
+ }
+ .for-data p{
+  font-size: 1.4rem;
+ }
+ .map img{
+  height: 18rem;
+  width: 90%;
+}
+.footer-row a{
+  font-size: 1.3rem;
+  line-height: 3.5rem;
+
+}
+
+.footer-row h3{
+  font-size: 3rem;
+}
+.arr{
+  height: 25rem;
+}
+.client-h{
+  max-width: 95rem;
+}
+
+.mempe{
+  font-size: 1.8rem;
+}
+.d1 p{
+  margin-top: 2rem;
+}
+.writeimg{
+  height: 30px;
+  width: 30px;
+}
+.price-data p{
+  margin: 0.5rem 1rem 1rem 0.5rem;
+  font-size: 1.5rem;
+}
+.price-d{
+  margin: 4.4rem;
+  padding: 4rem;
+}
+.price-btn{
+  width: 25rem;
+}
+.r1-d h4 {
+  font-size: 3.5rem;
+}
+.slide-p p{
+  font-size: 1.8rem;
+}
+.slide-p::after{
+  top: -2.5rem;
+  left: -3rem;
+}
+.slide-p{
+  margin-top: 10rem;
+}
+.swiper-slide img {
+  height: 51.2rem;
+}
+.un-col-3{
+  margin-top: 18rem;
+}
+.team-h2{
+  line-height: 10rem;
+  text-align: left;
+}
+.for-data img{
+  height: 45rem;
+}
+
+ }
+
+
+ /* 1700-any */
+ @media screen and (min-width: 1700px) {
+   .container {
+     max-width: 160rem;
+   }
+   h1 {
+    font-size: 12rem;
+  }
+  .sub-heading{
+    font-size: 8.8rem;
+  }
+
+   .blog h4 {
+     font-size: 5.4rem;
+   }
+
+   .blog-btn{
+    margin-top: 10rem;
+  }
+  .team-h2{
+    line-height: 15.5rem;
+}
+.team-p{
+  max-width: 40rem;
+  margin: 11rem 0 0 0; 
+}
+.t-img-h2{
+  margin-top: 9.5rem;
+  font-size: 11.5rem;
+}
+
+.un-img{
+  height: 17rem;
+  margin-right: 5rem;
+}
+.unh4{
+  font-size:5.5rem ;
+}
+.r1-d h4{
+  font-size: 4.4rem;
+}
+
+.map img{
+  height: 18rem;
+  width: 100%;
+}
+.footer-row a{
+  font-size: 1.8rem;
+  line-height: 4.5rem;
+
+}
+.footer-row h3{
+  font-size: 3.2rem;
+}
+.client-h{
+  max-width: 130rem;
+}
+.d1 p{
+  margin-top: 5rem;
+}
+.writeimg{
+  height: 40px;
+  width: 40px;
+}
+
+.price-data p{
+  margin: 1rem;
+  font-size: 1.8rem;
+}
+.price-btn{
+  width: 30rem;
+}
+.pricep{
+  font-size: 2.4rem;
+}
+.un-col-3{
+  margin-top: 20rem;
+}
+
+ }
